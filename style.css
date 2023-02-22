@@ -82,8 +82,13 @@ a:focus {
     color: #143774;
 }
 
+.past{
+    text-transform: lowercase;
+}
+
 strong {
     font-weight: 700;
+
 }
 
 h1,
