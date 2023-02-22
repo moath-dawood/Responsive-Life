@@ -265,3 +265,7 @@ nav a:focus {
 .widget-image {
     order: -1;
 }
+
+.deco-image{
+    object-position: left;
+}
