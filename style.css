@@ -55,8 +55,13 @@ footer {
     .site-title {
         text-align: left;
     }
+    .ul{
+        flex-direction: row;
+    }
 }
-
+.ul{
+    justify-content: center;
+}
 .site-title {
     text-align: center;
 }
@@ -69,6 +74,7 @@ img {
 a {
     color: #1792d2;
     font-weight: bolder;
+    text-transform: uppercase;
 }
 
 a:hover,
@@ -139,12 +145,15 @@ h3 {
 nav ul {
     list-style: none;
     display: flex;
+    flex-direction: column;
     padding: 0;
     justify-content: center;
 }
 
 nav li {
     margin-left: 2em;
+    text-align: center;
+    margin: 1em;
 }
 
 nav a {
