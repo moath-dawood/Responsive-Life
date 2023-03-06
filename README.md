@@ -13,13 +13,13 @@ It's a simple site featuring the Responsive design, built using HTML and CSS
 
 
 
-## Usage/Examples
+## Usage
 
 Just click [here](https://moath-dawood.github.io/responsive-life/) and enjoy :D
 
 ## Authors
 
-- [@moath-dawood](https://github.com/moath-dawood)
+- [Moath Dawood](https://github.com/moath-dawood)
 - GSG 
 
 ## License
