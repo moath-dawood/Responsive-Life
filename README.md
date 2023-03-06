@@ -15,9 +15,7 @@ It's a simple site featuring the Responsive design, built using HTML and CSS
 
 ## Usage/Examples
 
-Just click on the link and enjoy :D
-[Living the simple life](https://moath-dawood.github.io/responsive-life/)
-
+Just click [here](https://moath-dawood.github.io/responsive-life/) and enjoy :D
 
 ## Authors
 
